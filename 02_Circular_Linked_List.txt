@@ -1,0 +1,13 @@
+data appended :10
+data appended :20
+data appended :30
+data prepended :40
+40 -> 10 -> 20 -> 30 -> (back to head)
+--
+inserted :25 after :20
+40 -> 10 -> 20 -> 25 -> 30 -> (back to head)
+--
+data deleted :10
+40 -> 20 -> 25 -> 30 -> (back to head)
+--
+40 -> 20 -> 25 -> 30 -> (back to head)

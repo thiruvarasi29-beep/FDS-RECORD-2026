@@ -1,0 +1,33 @@
+
+element pushed into stack:10
+
+element pushed into stack:20
+
+element pushed into stack:30
+
+element pushed into stack:40
+
+element pushed into stack:50
+
+STACK is overflow
+
+The elements in STACK:
+50
+40
+30
+20
+10
+
+The popped element is 50
+
+The popped element is 40
+
+The popped element is 30
+
+The popped element is 20
+
+The popped element is 10
+
+Stack is underflow
+
+Stack is underflow

@@ -1,0 +1,16 @@
+data appended:10
+data appended:20
+data appended:30
+10 -> 20 -> 30 -> NULL
+data prepended:40
+40 -> 10 -> 20 -> 30 -> NULL
+
+element deleted:20
+40 -> 10 -> 30 -> NULL
+data inserted:50 at position:0
+50 -> 40 -> 10 -> 30 -> NULL
+
+search element: 40
+data found @:2
+list data
+50 -> 40 -> 10 -> 30 -> NULL
